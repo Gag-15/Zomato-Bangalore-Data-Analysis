@@ -1,10 +1,10 @@
-# 🍽️ Zomato Restaurant Data Analysis (Bangalore)
+# Zomato Restaurant Data Analysis (Bangalore)
 
 This project involves end-to-end exploratory data analysis (EDA) on a Zomato restaurant dataset from Bangalore, using Python and libraries such as Pandas, Matplotlib, and Seaborn.
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 - Perform data cleaning and preprocessing
 - Analyze cuisine trends, restaurant types, ratings, and cost distributions
 - Explore relationships between service features (like online delivery, table booking) and customer ratings
@@ -13,7 +13,7 @@ This project involves end-to-end exploratory data analysis (EDA) on a Zomato res
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 - Python
 - Pandas
 - Seaborn
@@ -22,7 +22,7 @@ This project involves end-to-end exploratory data analysis (EDA) on a Zomato res
 
 ---
 
-## 📈 Sample Visualizations
+## Sample Visualizations
 - Top cuisines by count and average rating
 - Restaurant type frequency
 - Cost vs Rating distribution
@@ -30,18 +30,18 @@ This project involves end-to-end exploratory data analysis (EDA) on a Zomato res
 
 ---
 
-## 📁 Files
+## Files
 - `Zomato_EDA.ipynb`: Jupyter/Kaggle notebook with all code, visualizations, and insights
 - Dataset was sourced from Kaggle (Bangalore-focused subset)
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 I'm a data and actuarial enthusiast currently pursuing my undergraduate studies, actively building my project portfolio while preparing for internships and actuarial science exams.
 
 ---
 
-## 📎 Links
-- 📘 [Kaggle Notebook](https://www.kaggle.com/code/gagansantia/data-analysis-project)
-- 🧠 [LinkedIn](https://www.linkedin.com/in/gagan-santia-0a21bb240/)
+## Links
+- [Kaggle Notebook](https://www.kaggle.com/code/gagansantia/data-analysis-project)
+- [LinkedIn](https://www.linkedin.com/in/gagan-santia-0a21bb240/)
 
